@@ -1,0 +1,4 @@
+aws
+awscliv2.zip
+.terraform
+*.hcl
